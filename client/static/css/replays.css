@@ -1,0 +1,103 @@
+@media all and (max-device-width: 480px) {
+    #navbar {
+        margin-left:-6em;
+    }
+    #contactbar {
+        margin-right:-3em;
+    }
+}
+@media all and (min-device-width: 481px) and (max-device-width: 1328px) {
+    #contactbar {
+        margin-right:-3em;
+    }
+}
+@media all and (min-device-width: 1329px) and (max-device-width: 1521){
+    #navbar {
+        margin-left:-12em;
+    }
+    #contactbar {
+        margin-right:-8.2em;
+    }
+}
+@media all and (min-device-width: 1521.1px){
+    #navbar {
+        margin-left:-40em;
+    }
+    #contactbar {
+        width:30em;
+        margin-right:-22em;
+    }
+    header {
+        margin-right:-50em;
+    }
+}
+@media all and (max-device-width: 680px) {
+    #replays {
+        height:75em;
+        width:100%;
+        background-image: url("/static/img/rayquazabg.png");
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        position:relative;
+        z-index:-1;
+    }
+}
+@media all and (min-device-width: 681px) and (max-device-width:960px){
+    #replays {
+        height:75em;
+        width:100%;
+        background-image: url("/static/img/rayquazabg.png");
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        position:relative;
+        z-index:-1;
+    }
+}
+@media all and (min-device-width: 961px) and (max-device-width: 1320px) {
+    #replays {
+        height:75em;
+        width:100%;
+        background-image: url("/static/img/rayquazabg.png");
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        position:relative;
+        z-index:-1;
+    }
+}
+@media all and (min-device-width: 1320.1px) and (max-device-width: 1520.9px) {
+    #replays {
+        height:75em;
+        width:100%;
+        background-image: url("/static/img/rayquazabg.png");
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        position:relative;
+        z-index:-1;
+    }
+}
+@media all and (min-device-width: 1521px) {
+    #replays {
+        height:75em;
+        width:100%;
+        background-image: url("/static/img/rayquazabg.png");
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        position:relative;
+        z-index:-1;
+    }
+}

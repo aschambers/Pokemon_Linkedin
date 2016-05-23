@@ -1,7 +1,24 @@
 {
-  "name": "customize_users",
+  "name": "Warrior_Security",
+  "version": "1.0.0",
+  "description": "Security guard website for Ryan Schambers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Alan Schambers",
+  "license": "ISC",
   "dependencies": {
     "express": "latest",
-    "mongoose": "latest"
-  }
+    "mongoose": "latest",
+    "socket.io": "^1.4.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aschambers/warrior_security.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aquang9124/warrior_security/issues"
+  },
+  "homepage": "https://github.com/aschambers/warrior_security#readme"
 }
